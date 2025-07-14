@@ -5,6 +5,8 @@ This project implements a deep learning model for classifying **retinal fundus i
 
 Built using **FastAI**, **PyTorch**, and a pretrained **ResNet50** CNN, the model is deployed as an interactive web app with **Gradio** via Hugging Face Spaces.
 
+![App Demo](app_demo.PNG)
+
 ---
 
 ## Demo
@@ -12,7 +14,7 @@ Built using **FastAI**, **PyTorch**, and a pretrained **ResNet50** CNN, the mode
 👉 [Try the model live on Hugging Face Spaces](https://huggingface.co/spaces/your-username/retina-disease-classifier)
 
 Upload a retinal image and receive a disease prediction with confidence scores.
-![App Demo](app_demo.png)
+
 ---
 
 ## 📊 Model Performance
