@@ -12,7 +12,7 @@ Built using **FastAI**, **PyTorch**, and a pretrained **ResNet50** CNN, the mode
 👉 [Try the model live on Hugging Face Spaces](https://huggingface.co/spaces/your-username/retina-disease-classifier)
 
 Upload a retinal image and receive a disease prediction with confidence scores.
-
+![App Demo](app_demo.png)
 ---
 
 ## 📊 Model Performance
