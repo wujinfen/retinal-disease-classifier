@@ -12,7 +12,7 @@ This model is deployed as an interactive web app with **Gradio** in Hugging Face
 
 ## Demo
 
-👉 [Try the model live on Hugging Face Spaces](https://huggingface.co/spaces/your-username/retina-disease-classifier)
+👉 [Try the model live on Hugging Face Spaces](https://huggingface.co/spaces/wujingg/Retina_Disease_Classifier)
 
 Upload a retinal image and receive a disease prediction with confidence scores.
 
