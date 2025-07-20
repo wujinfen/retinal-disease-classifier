@@ -35,8 +35,6 @@ Upload a retinal image and receive a disease prediction with confidence scores.
 - FastAI
 - PyTorch
 - Gradio
-- Jupyter Notebook
-- Hugging Face Spaces
 
 ---
 
