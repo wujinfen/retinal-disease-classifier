@@ -3,7 +3,8 @@
 This project implements a deep learning model for classifying **retinal fundus images** into four categories:  
 **Cataract, Diabetic Retinopathy, Glaucoma, and Normal**.
 
-Built using **FastAI**, **PyTorch**, and a pretrained **ResNet50** CNN, the model is deployed as an interactive web app with **Gradio** via Hugging Face Spaces.
+Built using **PyTorch**, **FastAI** with a pretrained **ResNet50** CNN
+This model is deployed as an interactive web app with **Gradio** in Hugging Face Spaces.
 
 ![App Demo](app_demo.PNG)
 
